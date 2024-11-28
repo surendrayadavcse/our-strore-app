@@ -1,5 +1,5 @@
 import axios from 'axios'
-const base_url="http://localhost:3000"
+const base_url="https://our-strore-app-1.onrender.com"
 export class  userService{
     
 
