@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon Server.js"
+    "start": "node Server.js",
+    "postinstall": "npm install nodemon"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
